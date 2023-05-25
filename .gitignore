@@ -4,8 +4,9 @@
 *.tfstate
 *.tfstate.*
 
-# Ignore Terraform .terraform directories
-.terraform/
+# Ignore Terraform .terraform directories and all subdirectories
+.terraform/**
+.terraform_*
 
 # Ignore Terraform crash log files
 crash.log
