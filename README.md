@@ -14,28 +14,36 @@ These instructions will get you a copy of the project up and running on your loc
 ### Installing
 
 1. Clone the repository:
+
 ```bash
 git clone https://github.com/jazzpujols34/Learn-Terraform-with-Azure-by-Building-a-Dev-Environment.git
+```
 
 2. Navigate to the repository:
 
+```bash
 cd Learn-Terraform-with-Azure-by-Building-a-Dev-Environment
-
+```
 3. Initialize Terraform:
 
+```bash
 terraform init
-
+```
 4. Validate the configuration:
 
+```bash
 terraform validate
-
+```
 5. Plan the deployment:
 
+```bash
 terraform plan
-
+```
 6. Apply the configuration:
 
+```bash
 terraform apply
+```
 
 ### Resources Created
 - Resource Group: A resource group named "mtc-resources" located in "East US".
