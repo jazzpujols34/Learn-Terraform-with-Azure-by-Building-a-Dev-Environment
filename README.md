@@ -18,18 +18,23 @@ These instructions will get you a copy of the project up and running on your loc
 git clone https://github.com/jazzpujols34/Learn-Terraform-with-Azure-by-Building-a-Dev-Environment.git
 
 2. Navigate to the repository:
+
 cd Learn-Terraform-with-Azure-by-Building-a-Dev-Environment
 
 3. Initialize Terraform:
+
 terraform init
 
 4. Validate the configuration:
+
 terraform validate
 
 5. Plan the deployment:
+
 terraform plan
 
 6. Apply the configuration:
+
 terraform apply
 
 ### Resources Created
