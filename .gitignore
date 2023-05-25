@@ -1,0 +1,14 @@
+# .gitignore
+
+# Ignore Terraform .tfstate files
+*.tfstate
+*.tfstate.*
+
+# Ignore Terraform .terraform directories
+.terraform/
+
+# Ignore Terraform crash log files
+crash.log
+
+# Ignore Terraform provider plugins
+terraform-provider-*
