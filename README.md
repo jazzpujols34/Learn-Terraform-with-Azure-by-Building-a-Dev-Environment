@@ -14,7 +14,7 @@ These instructions will get you a copy of the project up and running on your loc
 ### Installing
 
 1. Clone the repository:
-
+```bash
 git clone https://github.com/jazzpujols34/Learn-Terraform-with-Azure-by-Building-a-Dev-Environment.git
 
 2. Navigate to the repository:
