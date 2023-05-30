@@ -13,3 +13,6 @@ crash.log
 
 # Ignore Terraform provider plugins
 terraform-provider-*
+
+terraform.tfvars
+osx.tfvars
